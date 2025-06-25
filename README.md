@@ -1,6 +1,6 @@
 ## Olá! Eu sou Gabriel Andrade 👋
 Estudante de Análise e Desenvolvimento de Sistemas com experiência em
-suporte administrativo e vendas. Atualmente cursando desenvolvimento web e
+suporte administrativo e vendas. Atualmente cursando Análise e Desenvolvimento de Sistemas e
 buscando oportunidade para aplicar e aprimorar habilidades em programação e
 tecnologia da informação.
 
