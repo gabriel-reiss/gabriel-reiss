@@ -5,7 +5,7 @@ buscando oportunidade para aplicar e aprimorar habilidades em programação e
 tecnologia da informação.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriell_0612/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.linkedin.com/in/gabriel-andrade06)
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline-block">
